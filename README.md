@@ -1,2 +1,2 @@
 # Hello
-remote_theme: leonids
+remote_theme: Pudhina
