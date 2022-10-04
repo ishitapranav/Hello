@@ -6,5 +6,5 @@
 <img width="1010" alt="Screen Shot 2022-10-03 at 2 13 48 PM" src="https://user-images.githubusercontent.com/114503098/193683906-dc6d592c-ae79-43b1-a9df-e1cea7d2cf43.png">
 ## A Few Other Places
   - The Flower Fields 
-  ![The-Flower-Fields-at-Carlsbad-Ranch_3](https://user-images.githubusercontent.com/114503098/193740945-3b5a10fe-cc1a-4926-b3e1-9ae5d34f13ed.jpeg)
+  <img width="646" alt="Screen Shot 2022-10-03 at 10 27 55 PM" src="https://user-images.githubusercontent.com/114503098/193741578-dabe43a6-1cbc-4253-8dc2-4b48f6427857.png">
   <p> Located in Carlsbad, California, this magnificent field is filled with flowers of all colors. When you see it from a distance as a whole, it looks like a rainbow itself has formed on land. The different colors of the various types of flowers really enhances its elegance. This picture came from this websote here, which also provides more information about this place: [Visit Carlsbad] (https://visitcarlsbad.com/attractions/the-flower-fields-at-carlsbad-ranch/) </p>
